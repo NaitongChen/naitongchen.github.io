@@ -13,13 +13,10 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * Received the 2019 Dr John & Barbara Petkau Scholarship.
 
 ### Education
-* B.S. in Statistics, University of British Columbia, 2020 (expected)
+* B.S. in Statistics, University of British Columbia, 2015-2020 (expected)
 
 ### Work
 * Software Developer Co-op, SAP Vancouver, 2018
 
 ### Teaching
-## STAT200 Elementary Statistics for Applications
-Undergraduate Teaching Assistant, University of British Columbia, 2018-2019
-* conduct weekly labs (3 sections in 2018W Term 1 and 1 section in 2018W Term 2, 36 students per section)
-* assist with in-class activities
+* STAT200 Elementary Statistics for Applications, University of British Columbia, 2018-2019
