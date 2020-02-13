@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am currently a fourth year student at the University of British Columbia pursuing a bachelor’s degree in statistics, with a thematic concentration in computer science. I am interested in research in machine learning and bayesian statistics in general, and intend to pursue graduate studies in statistics.
+I am currently a fourth year student at the University of British Columbia pursuing a bachelor’s degree in statistics with a thematic concentration in computer science. I am interested in research in machine learning and computational statistics in general, and intend to pursue graduate studies in statistics.
 
 Currently, I am working with Dr. Trevor Campbell from the Statistics Department at UBC on Optimization Methods in Bayesian Inference as an undergraduate research assistant.
 
