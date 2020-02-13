@@ -2,15 +2,12 @@
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am currently a fourth year student at the University of British Columbia pursuing a bachelor’s degree in statistics, with a thematic concentration in computer science. I am interested in research in machine learning and bayesian statistics in general, and intend to pursue graduate studies in statistics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently, I am working with Dr. Trevor Campbell from the Statistics Department at UBC on Optimization Methods in Bayesian Inference as an undergraduate research assistant.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Apart from academics, I enjoy playing tennis, and work actively as a certified official with Tennis Canada.
 
-
-[jekyll-organization]: https://github.com/jekyll
+### News
+* Received an Honourable Mention of the 2020 CRA Outstanding Undergraduate Researcher Award.
+* Received the 2019 Dr John & Barbara Petkau Scholarship.
