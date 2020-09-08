@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am currently a first year master's student pursuing a M.Sc. degree in Statistics at the University of British Columbia. I am interested in Machine Learning and Bayesian Statistics in general, and am currently working with [Dr. Trevor Campbell](https://trevorcampbell.me/) from UBC's [Department of Statistics](https://www.stat.ubc.ca/) on the application of data summarization techniques to streaming data.
+I am a first year master's student pursuing a M.Sc. degree in Statistics at the University of British Columbia. I am interested in Bayesian statistics and machine learning in general, and am currently working with [Dr. Trevor Campbell](https://trevorcampbell.me/) from UBC's [Department of Statistics](https://www.stat.ubc.ca/) on the application of data summarization techniques to streaming data.
 
 Apart from academics, I enjoy playing tennis, and work actively as a certified official with Tennis Canada.
 
