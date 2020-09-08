@@ -19,4 +19,4 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * Software Developer Co-op, SAP Vancouver, 2018
 
 ### Teaching
-* Teaching Assistant, STAT200, University of British Columbia, 2018-2019
+* Teaching Assistant, STAT 200, University of British Columbia, 2018-2019
