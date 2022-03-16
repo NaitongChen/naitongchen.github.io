@@ -14,7 +14,7 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 
 ### Preprints
 * Bayesian inference via sparse Hamiltonian flows [[arXiv]](https://arxiv.org/abs/2203.05723)  
-*Naitong Chen, Zuheng Xu, Trevor Campbell*  
+<span style="color:gray">*Naitong Chen, Zuheng Xu, Trevor Campbell*</span>
 
 ### Education
 * M.Sc. in Statistics, University of British Columbia, 2020-2022 (expected)
