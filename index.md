@@ -13,6 +13,8 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * Received the 2019 [Dr John & Barbara Petkau Scholarship](https://www.stat.ubc.ca/dr-john-and-barbara-petkau-scholarship).
 
 ### Preprints
+* Ergodic variational flows [[arXiv]](https://arxiv.org/abs/2205.07475)  
+<span style="color:gray">*Zuheng Xu, Naitong Chen, Trevor Campbell*</span>
 * Bayesian inference via sparse Hamiltonian flows [[arXiv]](https://arxiv.org/abs/2203.05723)  
 <span style="color:gray">*Naitong Chen, Zuheng Xu, Trevor Campbell*</span>
 
