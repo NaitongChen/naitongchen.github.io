@@ -15,8 +15,8 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 
 ### Publications
 * Bayesian inference via sparse Hamiltonian flows [[arXiv]](https://arxiv.org/abs/2203.05723) [[DOI]](https://dx.doi.org/10.14288/1.0417554)
-<br><span style="color:gray">*Naitong Chen, Zuheng Xu, Trevor Campbell*</span></br>
-<span style="color:gray">*Advances in Neural Information Processing Systems (accepted), 2022*</span>
+<br><span style="color:gray">*Naitong Chen, Zuheng Xu, Trevor Campbell*</span>
+<br><span style="color:gray">*Advances in Neural Information Processing Systems (accepted), 2022*</span>
 
 ### Preprints
 * Ergodic variational flows [[arXiv]](https://arxiv.org/abs/2205.07475)  
@@ -31,5 +31,7 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * Software Developer Co-op, SAP Vancouver, 2018
 
 ### Teaching
-* Teaching Assistant, STAT 406: Methods for Statistical Learning, University of British Columbia, 2022-Present
-* Teaching Assistant, STAT 200: Elementary Statistics for Applications, University of British Columbia, 2018-2019
+* Teaching Assistant, STAT 406, University of British Columbia, 2022-Present
+<br><span style="color:gray">*Methods for Statistical Learning*</span>
+* Teaching Assistant, STAT 200, University of British Columbia, 2018-2019
+<br><span style="color:gray">*Elementary Statistics for Applications*</span>
