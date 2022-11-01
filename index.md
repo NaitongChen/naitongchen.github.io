@@ -23,7 +23,7 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 <span style="color:gray">*Zuheng Xu, Naitong Chen, Trevor Campbell*</span>
 
 ### Education
-* Ph.D. in Statistics, University of British Columbia, 2020-Present
+* Ph.D. in Statistics, University of British Columbia, 2022-Present
 * M.Sc. in Statistics, University of British Columbia, 2020-2022
 * B.Sc. in Statistics, University of British Columbia, 2015-2020
 
