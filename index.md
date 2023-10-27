@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am a first year Ph.D. student in Statistics at the University of British Columbia. My research interests are Bayesian statistics and machine learning, and am currently working with [Dr. Trevor Campbell](https://trevorcampbell.me/) from UBC's [Department of Statistics](https://www.stat.ubc.ca/) on developing fast and accurate large-scale Bayesian inference methods using data summarization techniques.
+I am a second year Ph.D. student in Statistics at the University of British Columbia. My research interests are Bayesian statistics and machine learning, and am currently working with [Dr. Trevor Campbell](https://trevorcampbell.me/) from UBC's [Department of Statistics](https://www.stat.ubc.ca/) on developing fast and accurate large-scale Bayesian inference methods using data summarization techniques.
 
 Apart from academics, I enjoy playing tennis, and work actively as a certified official with Tennis Canada.
 
@@ -22,9 +22,9 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 <br><span style="color:gray">*Naitong Chen, Zuheng Xu, Trevor Campbell*</span>
 <br><span style="color:gray">*Advances in Neural Information Processing Systems (accepted), 2022*</span>
 
-<!-- ### Preprints
-* Ergodic variational flows [[arXiv]](https://arxiv.org/abs/2205.07475)  
-<span style="color:gray">*Zuheng Xu, Naitong Chen, Trevor Campbell*</span> -->
+### Preprints
+* Coreset Markov chain Monte Carlo [[arXiv]](https://arxiv.org/abs/2310.17063)  
+<span style="color:gray">*Naitong Chen, Trevor Campbell*</span>
 
 ### Education
 * Ph.D. in Statistics, University of British Columbia, 2022-Present
@@ -35,7 +35,7 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * Software Developer Co-op, SAP Vancouver, 2018
 
 ### Teaching
-* Teaching Assistant, STAT 406, University of British Columbia, 2022
+* Teaching Assistant, STAT 406, University of British Columbia, 2022-2023
 <br><span style="color:gray">*Methods for Statistical Learning*</span>
 * Teaching Assistant, STAT 200, University of British Columbia, 2018-2019, 2023
 <br><span style="color:gray">*Elementary Statistics for Applications*</span>
