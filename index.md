@@ -11,7 +11,7 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * [April, 2025] I received the 2024 [Statistics Graduate Teaching Assistant Award](https://www.stat.ubc.ca/congratulations-2024-gta-award-winners-kenny-chiu-and-naitong-chen).
 * [January, 2024] Our paper [Coreset Markov chain Monte Carlo](https://arxiv.org/abs/2310.17063) has been accepted to [AISTATS 2024](https://aistats.org/aistats2024/).
 * [April, 2023] Our paper [MixFlows: principled variational inference via mixed flows](https://arxiv.org/abs/2205.07475) has been accepted to [ICML 2023](https://icml.cc/).
-* [September, 2022] Our paper [Bayesian inference via sparse Hamiltonian flows](https://arxiv.org/abs/2203.05723) has been accepted to [NeurIPS 2022](https://neurips.cc/) as a [spotlight](https://nips.cc/virtual/2022/session/64761).
+* [September, 2022] Our paper [Bayesian inference via sparse Hamiltonian flows](https://arxiv.org/abs/2203.05723) has been accepted to [NeurIPS 2022](https://neurips.cc/) with [oral designation](https://nips.cc/virtual/2022/session/64761).
 * [March, 2022] I will be starting my Ph.D. at UBC in September.
 * [Septempber, 2020] Received the 2019 [Nash Medal](https://www.stat.ubc.ca/nash-medal).
 * [Feburay, 2020] I received an Honourable Mention of the 2020 [CRA Outstanding Undergraduate Researcher Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/).
@@ -31,7 +31,7 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * MixFlows: principled variational inference via mixed flows [[PMLR]](https://proceedings.mlr.press/v202/xu23b.html) [[arXiv]](https://arxiv.org/abs/2205.07475)
 <br><span style="color:gray">*Zuheng Xu, Naitong Chen, Trevor Campbell*</span>
 <br><span style="color:gray">*International Conference on Machine Learning, 2023*</span>
-* Bayesian inference via sparse Hamiltonian flows [[NeurIPS]](https://papers.nips.cc/paper_files/paper/2022/hash/83b17fb3369b1effa97ca5409526b02e-Abstract-Conference.html) [[UBC library]](https://dx.doi.org/10.14288/1.0417554) [[arXiv]](https://arxiv.org/abs/2203.05723) [**[spotlight]**](https://nips.cc/virtual/2022/session/64761)
+* Bayesian inference via sparse Hamiltonian flows [[NeurIPS]](https://papers.nips.cc/paper_files/paper/2022/hash/83b17fb3369b1effa97ca5409526b02e-Abstract-Conference.html) [[UBC library]](https://dx.doi.org/10.14288/1.0417554) [[arXiv]](https://arxiv.org/abs/2203.05723) [**[oral]**](https://nips.cc/virtual/2022/session/64761)
 <br><span style="color:gray">*Naitong Chen, Zuheng Xu, Trevor Campbell*</span>
 <br><span style="color:gray">*Advances in Neural Information Processing Systems, 2022*</span>
 
