@@ -4,7 +4,7 @@ layout: page
 
 I am a third year Ph.D. student in Statistics at the University of British Columbia. My research interests are Bayesian statistics and machine learning, and am currently working with [Dr. Trevor Campbell](https://trevorcampbell.me/) from UBC's [Department of Statistics](https://www.stat.ubc.ca/) on developing fast and accurate large-scale Bayesian inference methods using data summarization techniques.
 
-Apart from academics, I enjoy playing tennis, and work actively as a certified official (chair/line umpire) with the ITF, ATP, WTA, and Tennis Canada.
+Apart from academics, I enjoy running and playing tennis, and work actively as a certified official (chair/line umpire) with the ITF, ATP, WTA, and Tennis Canada.
 
 ### News
 * [May, 2025] Our paper [Tuning-free coreset Markov chain Monte Carlo via Hot DoG](https://arxiv.org/abs/2410.18973) has been accepted to [UAI 2025](https://www.auai.org/uai2025/).
@@ -18,7 +18,7 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 * [July, 2019] I received the 2019 [Dr John & Barbara Petkau Scholarship](https://www.stat.ubc.ca/dr-john-and-barbara-petkau-scholarship).
 
 ### Publications
-* Tuning-free coreset Markov chain Monte Carlo via Hot DoG [[arXiv]](https://arxiv.org/abs/2410.18973)  
+* Tuning-free coreset Markov chain Monte Carlo via Hot DoG [[OpenReview]](https://openreview.net/forum?id=MAyoVf1rn6) [[arXiv]](https://arxiv.org/abs/2410.18973)  
 <span style="color:gray">*Naitong Chen, Jonathan H. Huggins, Trevor Campbell*</span>
 <br><span style="color:gray">*Uncertainty in Artificial Intelligence, 2025*</span>
 * Coreset Markov chain Monte Carlo [[PMLR]](https://proceedings.mlr.press/v238/chen24f.html) [[arXiv]](https://arxiv.org/abs/2310.17063)
@@ -36,9 +36,9 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 <br><span style="color:gray">*Naitong Chen*</span>
 
 ### Education
-* Ph.D. in Statistics, University of British Columbia, 2022-Present
-* M.Sc. in Statistics, University of British Columbia, 2020-2022
-* B.Sc. in Statistics, University of British Columbia, 2015-2020
+* Ph.D. in Statistics, University of British Columbia, 2022 - Present
+* M.Sc. in Statistics, University of British Columbia, 2020 - 2022
+* B.Sc. in Statistics, University of British Columbia, 2015 - 2020
 
 ### Work
 * Software Developer Co-op, SAP Vancouver, 2018
@@ -47,20 +47,20 @@ Apart from academics, I enjoy playing tennis, and work actively as a certified o
 ### Teaching
 * Guest Lecturer, STAT 406, University of British Columbia, 2023
 <br><span style="color:gray">*Methods for Statistical Learning*</span>
-* Teaching Assistant, STAT 406, University of British Columbia, 2022-2023
+* Teaching Assistant, STAT 406, University of British Columbia, 2022 - 2023
 <br><span style="color:gray">*Methods for Statistical Learning*</span>
-* Teaching Assistant, STAT 406, University of British Columbia, 2022-2023
+* Teaching Assistant, STAT 406, University of British Columbia, 2022 - 2023
 <br><span style="color:gray">*Methods for Statistical Learning*</span>
 * Teaching Assistant, STAT 344, University of British Columbia, 2024
 <br><span style="color:gray">*Sample Survey*</span>
-* Teaching Assistant, STAT 305, University of British Columbia, 2024-2025
+* Teaching Assistant, STAT 305, University of British Columbia, 2024 - 2025
 <br><span style="color:gray">*Introduction to Statistical Inference*</span>
-* Teaching Assistant, STAT 200, University of British Columbia, 2018-2019, 2023-2024
+* Teaching Assistant, STAT 200, University of British Columbia, 2018 - 2019, 2023 - 2024
 <br><span style="color:gray">*Elementary Statistics for Applications*</span>
 
 ### Awards
 * 2024 [Statistics Graduate Teaching Assistant Award](https://www.stat.ubc.ca/news/congratulations-2024-gta-award-winners-kenny-chiu-and-naitong-chen)
-* 2022 [Oral designation](https://nips.cc/virtual/2022/session/64761) of our [NeurIPS 2022](https://neurips.cc/) paper [Bayesian inference via sparse Hamiltonian flows](https://papers.nips.cc/paper_files/paper/2022/hash/83b17fb3369b1effa97ca5409526b02e-Abstract-Conference.html)
+* 2022 [Oral designation](https://nips.cc/virtual/2022/session/64761) for our [NeurIPS](https://neurips.cc/) paper [Bayesian inference via sparse Hamiltonian flows](https://papers.nips.cc/paper_files/paper/2022/hash/83b17fb3369b1effa97ca5409526b02e-Abstract-Conference.html)
 * 2020 Honourable Mention of the [CRA Outstanding Undergraduate Researcher Award](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/)
 * 2019 [Nash Medal](https://www.stat.ubc.ca/nash-medal)
 * 2019 [Dr John & Barbara Petkau Scholarship](https://www.stat.ubc.ca/dr-john-and-barbara-petkau-scholarship)
