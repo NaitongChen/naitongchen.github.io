@@ -4,7 +4,7 @@ layout: page
 
 I am a third year Ph.D. student in Statistics at the University of British Columbia. My research interests are Bayesian statistics and machine learning, and am currently working with [Dr. Trevor Campbell](https://trevorcampbell.me/) from UBC's [Department of Statistics](https://www.stat.ubc.ca/) on developing fast and accurate large-scale Bayesian inference methods using data summarization techniques.
 
-Apart from academics, I enjoy running and playing tennis, and work actively as a certified official (chair/line umpire) with the ITF, ATP, WTA, and Tennis Canada.
+Apart from academics, I enjoy running and playing tennis. I have finished a half marathon race. I also work actively as a certified official (chair/line umpire) with the ITF, ATP, WTA, and Tennis Canada.
 
 ### News
 * [May, 2025] Our paper [Tuning-free coreset Markov chain Monte Carlo via Hot DoG](https://arxiv.org/abs/2410.18973) has been accepted to [UAI 2025](https://www.auai.org/uai2025/).
