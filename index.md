@@ -18,7 +18,7 @@ Apart from academics, I enjoy running and playing tennis. I have finished a half
 * [July, 2019] I received the 2019 [Dr John & Barbara Petkau Scholarship](https://www.stat.ubc.ca/dr-john-and-barbara-petkau-scholarship).
 
 ### Publications
-* Tuning-free coreset Markov chain Monte Carlo via Hot DoG [[OpenReview]](https://openreview.net/forum?id=mrGWCwzxmU) [[arXiv]](https://arxiv.org/abs/2410.18973)  
+* Tuning-free coreset Markov chain Monte Carlo via Hot DoG [[PMLR]](https://proceedings.mlr.press/v286/chen25d.html) [[arXiv]](https://arxiv.org/abs/2410.18973)  
 <span style="color:gray">*Naitong Chen, Jonathan H. Huggins, Trevor Campbell*</span>
 <br><span style="color:gray">*Uncertainty in Artificial Intelligence, 2025*</span>
 * Coreset Markov chain Monte Carlo [[PMLR]](https://proceedings.mlr.press/v238/chen24f.html) [[arXiv]](https://arxiv.org/abs/2310.17063)
